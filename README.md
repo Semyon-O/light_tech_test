@@ -50,3 +50,5 @@ curl --request GET \
   --header 'Authorization: Token ТОКЕН' \
   --header 'Content-Type: application/json'
 ```
+
+ВАЖНО: приложение запущено в тестовом варианте

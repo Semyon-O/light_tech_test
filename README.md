@@ -3,7 +3,7 @@
 
 1. Для скачивания проекта необходимо запустить следующее:
 ```shell
-git clone 
+git clone https://github.com/Semyon-O/light_tech_test.git
 ```
 
 2. Для запуска проекта необходимости запустить сборку (ВАЖНО, проверить наличие docker c compose):
